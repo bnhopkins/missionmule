@@ -1,0 +1,31 @@
+enabled: true
+logo: logo.png
+footer_icons:
+  -
+    icon: fa-facebook
+    url: 'https://www.facebook.com/'
+  -
+    icon: 'fa fa-twitter'
+    url: 'https://www.twitter.com/'
+  -
+    icon: fa-google-plus
+    url: 'https://www.google.com/'
+  -
+    icon: fa-dribbble
+    url: 'https://www.dribbble.com/'
+footer_blocks:
+  -
+    content: 'Open sourced unmanned arial systems for environmental conservation with the mission of creating affordable and accessible methods of data driven conservaion efforts.'
+    icons: false
+  -
+    title:
+    image: simple_diagram.png
+    logo: false
+    icons: false
+  -
+    title: 'CONTACT US'
+    content: "General inquiries \r \n \n <br> <a href=\"mailto:#\">info@missionmule.com</a> \r \n \n <br><br> Parner with us   \r \n \n <a href=\"mailto:#\">partner@missionmule.com</a>"
+    logo: false
+    icons: false
+copyright: 'Mission Mule LLC | Copyright &copy; 2017'
+google_maps_api_key: AIzaSyDbmnZP5BTkpv5blTprRtUvS99zbvyoSAQ

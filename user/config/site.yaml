@@ -1,0 +1,16 @@
+title: 'Mission Mule'
+author:
+  name: 'Martin Slosarik'
+  email: martin@missionmule.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Open source unmanned arial systems for environmental conservation'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
